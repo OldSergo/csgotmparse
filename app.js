@@ -30,8 +30,8 @@ var parseItems = function() {
 	.on('end', function() {
 		procceedRead = true;
 		console.log('parsing finish');
-		console.log('get price item classid = 1463621599');
-		getItemPrice('1463621599');
+		console.log('get price item classid = 310776566');
+		getItemPrice('310776566');
 	});
 }
 var downloadBase = function(dbname) {
